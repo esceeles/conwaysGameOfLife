@@ -53,7 +53,6 @@ for (int i = 0; i < 34; i++){
 }
 inData.close();
 
-
 int ar2[34][70] = {0};
 
 //display loop
